@@ -1,5 +1,7 @@
-Flat App Store Badge Localized Webfont
+Flat App Store Badges Localized Webfont
 ======================================
+
+![alt tag](demo.jpg)
 
 An SVG webfont full of localized App Store badges built by [Orlando TM Merone](http://www.orlandotm.com) aka [@orlandotm](http://www.twitter.com/orlandotm). Apple provides badge artwork with the “Download on the” modifier translated into regional languages. I have created a vector webfont that contains them all and can be useful (maybe) to developers and designers all over the world.
 
