@@ -64,5 +64,8 @@ Complete list:
 * (Chinese Simplified)    class="aapl aapl-zh_Hans"
 * (Chinese Traditional)    class="aapl aapl-zh_Hant"
 
+---
+
+[![Analytics](https://ga-beacon.appspot.com/UA-50602721-1/orlandotm/flat-app-store-badge-localized-webfont)](https://github.com/igrigorik/ga-beacon)
 
 
